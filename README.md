@@ -20,4 +20,4 @@
 * Planned models for phase 2:
 * H2o models are used to build the final model.
 * SVM code will be updated.
-* Artificail neural networks code will be updated.
+* Artificial neural networks code will be updated.
